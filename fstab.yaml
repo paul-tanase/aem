@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/paul-tanase/aem/
+    type: markup
+
+folders:
+  /products/: /products/default
