@@ -1,6 +1,7 @@
 mountpoints:
   /:
-    url: https://content.da.live/paul-tanase/aem/
+#    url: https://content.da.live/paul-tanase/aem/
+    url: https://drive.google.com/drive/folders/1DXxa00m6qbF_ZO4vE0b2zIpBjUgkwLC6
     type: markup
 
 folders:
